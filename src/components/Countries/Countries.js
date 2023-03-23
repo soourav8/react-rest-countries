@@ -13,7 +13,7 @@ const Countries = () => {
     
     return (
         <div >
-            <h1>Hello from Countries</h1>
+            
             <p>Countries: {countries.length}</p>
             {
                 // countries.map(country => console.log(country))
